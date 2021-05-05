@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ExcellenceJustice
 - 👀 I’m interested in machine learning techniques applied to developing solutions that benefit humanity.
-- 🌱 I’m currently learning the development of algorithms for health informatics.
+- 🌱 I’m currently learning the development of machine leaning algorithms for health informatics.
 - 💞️ I’m looking to collaborate on any project on machine learning, data science and health informatics.
 - 📫 How to reach me: www.justylytics.com, contact@justylytics.com
 
